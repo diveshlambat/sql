@@ -1,2 +1,2 @@
-# sql
+# python project
 otp generAT
