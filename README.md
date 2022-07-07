@@ -1,0 +1,2 @@
+# sql
+otp generAT
